@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\burak\\source\\repos\\Serilestirme\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B66B037A-2E4A-4136-8F83-92D43D903CE2}|Serilestirme\\Serilestirme.csproj|c:\\users\\burak\\source\\repos\\serilestirme\\serilestirme\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B66B037A-2E4A-4136-8F83-92D43D903CE2}|Serilestirme\\Serilestirme.csproj|solutionrelative:serilestirme\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\burak\\source\\repos\\Serilestirme\\Serilestirme\\Program.cs",
+              "RelativeDocumentMoniker": "Serilestirme\\Program.cs",
+              "ToolTip": "C:\\Users\\burak\\source\\repos\\Serilestirme\\Serilestirme\\Program.cs",
+              "RelativeToolTip": "Serilestirme\\Program.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAcwCUAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T13:50:44.113Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
